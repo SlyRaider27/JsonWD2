@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/SlyRaider27/JsonWD2/issues"
   },
-  "homepage": "https://github.com/SlyRaider27/JsonWD2#readme"
+  "homepage": "https://github.com/SlyRaider27/JsonWD2#readme",
+  "dependencies": {
+    "jsonfile": "^4.0.0"
+  }
 }
